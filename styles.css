@@ -1,7 +1,6 @@
 /*  your css code here. If applicable */
 *{
 	background-color:lightseagreen;
-	width=1100px
 }
 tr td:nth-child(odd){
     width: 200px;
@@ -12,6 +11,6 @@ tr td:nth-child(even){
 body{
     width: 1100px;
 }
-#head{
+.head{
 	text-align:middle;
 }
